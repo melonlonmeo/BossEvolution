@@ -66,3 +66,57 @@ Transform your Terraria server into an exciting battlefield where every boss fig
 
 ---
 Made with ❤️ by GILX_Dev TERRARIAVUI
+
+## 📖 Installation
+
+1. Download the latest release from the releases page
+2. Place `BossEvolution.dll` in your server's `ServerPlugins` folder
+3. Restart your TShock server
+
+## 💡 Tips
+
+1. **For Players**
+   - Watch for boss name announcements to know what abilities to expect
+   - Be prepared for increased difficulty in later phases
+   - Keep moving to avoid predictive attacks
+   - Watch out for controlled minions
+
+2. **For Server Admins**
+   - Monitor server console for boss evolution messages
+   - Boss fights may last longer than vanilla
+   - Skill combinations are random but balanced
+   - All changes are server-side and sync automatically
+
+## ⚠️ Known Limitations
+
+- Wall of Flesh cannot receive movement-based skills
+- Some boss combinations might be more challenging than others
+- Minion control is limited to a specific range around the boss
+
+## 🔧 Troubleshooting
+
+If you encounter issues:
+1. Check server logs for error messages
+2. Ensure your TShock version is compatible
+3. Verify the plugin is properly loaded
+4. Restart the server if bosses aren't evolving
+
+## 🆕 Future Updates
+
+Planned features:
+- More skill combinations
+- Custom skill configurations
+- Additional boss mechanics
+- Enhanced visual effects
+
+## 🤝 Support
+
+For issues, questions, or suggestions:
+- Open an issue on GitHub
+- Join our Discord community
+- Check the wiki for detailed information
+
+---
+
+Remember: Each boss fight will be unique! Prepare accordingly and enjoy the enhanced challenge!
+
