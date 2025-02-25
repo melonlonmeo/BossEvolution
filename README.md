@@ -109,13 +109,6 @@ Planned features:
 - Additional boss mechanics
 - Enhanced visual effects
 
-## 🤝 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Join our Discord community
-- Check the wiki for detailed information
-
 ---
 
 Remember: Each boss fight will be unique! Prepare accordingly and enjoy the enhanced challenge!
